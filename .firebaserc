@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "calc-app-repeto",
+    "react-calculator": "calc-app-repeto"
+  },
+  "targets": {}
+}
